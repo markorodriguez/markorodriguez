@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [my github account and my portfolio.](my github account and my portfolio.)
+- 👨‍💻 All of my projects are available at **my github account and my portfolio.**
 
 - 📫 How to reach me **marko.rodriguez@hotmail.es**
 
