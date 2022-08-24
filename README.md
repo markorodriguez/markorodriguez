@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **projects for my portfolio.**
 
-- 🌱 I’m currently learning **Next.js** and **Python**
+- 🌱 I’m currently learning **Angular** and **GraphQL**
 
 - 👨‍💻 All of my projects are available at **my github account and my portfolio.**
 
