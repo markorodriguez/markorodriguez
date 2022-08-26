@@ -20,4 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=markorodriguez&show_icons=true&theme=dark&locale=en" alt="markorodriguez" /></p>
 
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=w9lp7o2asdpzdmt7tzdsipc6a&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
