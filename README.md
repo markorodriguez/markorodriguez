@@ -9,7 +9,7 @@
 - 🔭 I’m currently looking for a job  
   
 
-- 🌱 I’m currently learning GraphQL  
+- 🌱 I’m currently learning PHP and Laravel  
   
 
 - 👨‍💻 All my projects are available at my GitHub account and my portfolio.  
