@@ -6,10 +6,10 @@
 ### <div align="center">I'm Marko, a full-stack developer 👨‍💻 from Peru 🚀</div>  
   
 
-- 🔭 I’m currently looking for a job  
+- 🔭 I’m currently working at Mowa Consultora
   
 
-- 🌱 I’m currently learning PHP and Laravel  
+- 🌱 I’m currently learning AWS  
   
 
 - 👨‍💻 All my projects are available at my GitHub account and my portfolio.  
