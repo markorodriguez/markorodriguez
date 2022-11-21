@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Marko, a full-stack developer 👨‍💻 from Peru 🚀</div>  
+### <div align="center">I'm Marko, a backend developer 👨‍💻 from Peru 🚀</div>  
   
 
 - 🔭 I’m currently working at Mowa Consultora
