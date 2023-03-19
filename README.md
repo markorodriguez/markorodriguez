@@ -9,7 +9,7 @@
 - 🔭 I’m currently working at Mowa Consultora
   
 
-- 🌱 I’m currently learning AWS  
+- 🌱 I’m currently learning AWS and exploring node.js related technologies. 
   
 
 - 👨‍💻 All my projects are available at my GitHub account and my portfolio.  
