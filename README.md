@@ -6,7 +6,7 @@
 ### <div align="center">I'm Marko, a fullstack developer 👨‍💻 from Peru 🚀</div>  
   
 
-- 🔭 I’m currently working at Mowa Consultora
+- 🔭 I’m currently working at Laureate Peru
   
 
 - 🌱 I’m currently learning AWS and exploring node.js related technologies. 
